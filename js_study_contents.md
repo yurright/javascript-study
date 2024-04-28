@@ -40,66 +40,67 @@ Loops and Iteration
 -for...of statement
 
 Functions
--Defining functions: function declaration(function statement)/function expresssion
--calling functions
--function hoisting
--function scope
--scope and the function stack (recursion, nested functions and closure, preservation of variables, multiply-nested functions, name conflicts)
--closures
--arguments object
--function parameters(default parameter/rest parameter)
--arrow function
+- Defining functions: function declaration(function statement)/function expresssion
+- calling functions
+- function hoisting
+- function scope
+- scope and the function stack (recursion, nested functions and closure, preservation of variables, multiply-nested functions, name conflicts)
+- closures
+- arguments object
+- function parameters(default parameter/rest parameter)
+- arrow function
+- callback
 
 Expressions and Operators
--assignment operators
--comparison operators
--arithmetic operators
--bitwise operators
--logical operators
--BigInt operators
--String operators
--Conditional (ternary) operator
--Comma operator
--Unary operators (delete, typeof, void)
--relational operators (in, instanceof)
--basic expressions (this, grouping operator, new, super)
+- assignment operators
+- comparison operators
+- arithmetic operators
+- bitwise operators
+- logical operators
+- BigInt operators
+- String operators
+- Conditional (ternary) operator
+- Comma operator
+- Unary operators (delete, typeof, void)
+- relational operators (in, instanceof)
+- basic expressions (this, grouping operator, new, super)
 
 Numbers and Dates
--Number object
--Math object
--BigInts
--Date object
+- Number object
+- Math object
+- BigInts
+- Date object
 
 Text formatting
--string
--string object
--internationalization
+- string
+- string object
+- internationalization
 
 Regular expressions
 
 Indexed Collections = Arrays
 
 Keyed Collections
--Map object
--WeakMap object
--Set object
+- Map object
+- WeakMap object
+- Set object
 
 Objects
--Create object
--inheritance
--defining method
--defining getter setter
--compare objects
+- Create object
+- inheritance
+- defining method
+- defining getter setter
+- compare objects
 
 Classes
--declaration
--constructor
--instance method
--private fields
--accessor fields
--public fields
--static properties
--extend and inheritance
+- declaration
+- constructor
+- instance method
+- private fields
+- accessor fields
+- public fields
+- static properties
+- extend and inheritance
 
 
 Conditionals
